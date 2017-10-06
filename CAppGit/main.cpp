@@ -6,6 +6,7 @@ void print(int valor);
 
 int main() {
 
+    print(1);
     print(0);
 
     return 0;
